@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahin</h1>
 
-![full-stack-developer](https://github.com/shahin-m-hashim/shahin-m-hashim/assets/98640366/926d5b2d-4e16-4267-a927-fe8248573003)
+![full-stack-developer](https://github.com/shahin-m-hashim/shahin-m-hashim/assets/98640366/04ffa611-5d1c-4f64-85d7-cd5fba48064d)
 
 About me:
 - 👀 Passionate about Coding, Designing, Editing, and Gaming, with a focus on creating intuitive and visually appealing user interfaces.
